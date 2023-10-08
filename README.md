@@ -6,7 +6,7 @@
 _✨ Extend from [op finder](https://github.com/ninthseason/nonebot-plugin-morep-finder) ✨_
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/ninthseason/nonebot-plugin-morep-finder.svg" alt="license">
+    <img src="https://img.shields.io/github/license/ninthseason/nonebot-plugin-morep-finder" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/nonebot-plugin-morep-finder">
     <img src="https://img.shields.io/pypi/v/nonebot-plugin-morep-finder.svg" alt="pypi">
