@@ -3,7 +3,7 @@
 
 # nonebot-plugin-morep-finder
 
-_✨ Extend from [op finder](https://github.com/ninthseason/nonebot-plugin-morep-finder) ✨_
+_✨ Extend from [op finder](https://github.com/ninthseason/nonebot-plugin-op-finder) ✨_
 
 <a href="./LICENSE">
     <img src="https://img.shields.io/github/license/ninthseason/nonebot-plugin-morep-finder" alt="license">
